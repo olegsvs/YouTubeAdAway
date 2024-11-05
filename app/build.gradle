@@ -7,7 +7,7 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId "ma.wanam.youtubeadaway.fork20241105"
+        applicationId "ma.wanam.youtubeadaway"
         minSdk 27
         targetSdk 35
         versionCode 510
