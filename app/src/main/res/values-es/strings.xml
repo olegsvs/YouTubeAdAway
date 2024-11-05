@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">YouTube AdAway</string>
-    <string name="module_active">está activo!</string>
-    <string name="module_inactive">NO está activo!\nAsegúrese de que esté habilitado y REINICIE.</string>
-    <string name="donate">Donar</string>
-
-</resources>
